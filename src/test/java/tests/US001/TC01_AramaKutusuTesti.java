@@ -8,4 +8,10 @@ public class TC01_AramaKutusuTesti {
     public void test01() {
 
     }
+
+    @Test
+    public void test02() {
+
+
+    }
 }
