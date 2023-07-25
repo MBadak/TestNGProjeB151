@@ -1,5 +1,5 @@
 
-/*
+
 package utilities;
 
 
@@ -49,4 +49,3 @@ public abstract class ExtentReport {
         extentReports.flush();
     }
 }
-*/
